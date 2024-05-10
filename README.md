@@ -29,7 +29,7 @@ if code_directory not in syspath:
     syspath.insert(0, code_directory)
 
 def run_tools_ui(directory = None):
-    ## You can take this code and maker it a button ##
+    ## You can take this code and make it a button ##
     ## ↓↓↓↓↓↓ ↓↓↓↓↓↓ ↓↓↓↓↓↓ ↓↓↓↓↓↓ ##
     
     from ropeMaker import ropeMakerUI
