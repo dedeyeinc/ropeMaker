@@ -1,4 +1,4 @@
-from Library import ropeMakerUI
+from ropeMaker import ropeMakerUI
 import pymel.core as pm
 import maya.cmds as cmds
 import maya.mel as mm

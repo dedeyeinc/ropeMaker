@@ -1,7 +1,7 @@
 import maya.cmds as cmds
 import maya.mel as mm
 import re
-from Library import ropeMakerUI
+from ropeMaker import ropeMakerUI
 
 def makeCenterCurve(c=1, j=1, s=1, d=1):
     #track select order must be turned ON for this to work

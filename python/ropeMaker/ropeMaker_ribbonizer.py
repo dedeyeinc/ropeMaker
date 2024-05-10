@@ -38,7 +38,7 @@ import sys
 import maya.OpenMaya as om
 import maya.cmds as mc
 import maya.mel as mm
-from Library import ropeMakerUI
+from ropeMaker import ropeMakerUI
 
 def get_bbox_center(obj):
 

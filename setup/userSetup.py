@@ -5,7 +5,7 @@
 #2 If it's not there, then add this file (userSetup.py) to that directory.
 
 #3 code_directory must be set to the directory where you extracted the ropeMaker scripts. This can be anywhere you choose. The default path is set below.
-code_directory = 'C:/Users/{username}/Documents/maya/scripts/python' #<-- change only this path, make sure to include quotes. 
+code_directory = 'C:/Users/mathi/Documents/maya/scripts/ropeMaker-main/python' #<-- change only this path, make sure to include quotes. 
 
 
 #Please don't change any of the following unless you know how it works.
