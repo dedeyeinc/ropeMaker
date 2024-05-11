@@ -40,4 +40,4 @@ def run_tools_ui(directory = None):
     ## ↑↑↑↑↑↑ ↑↑↑↑↑↑ ↑↑↑↑↑↑ ↑↑↑↑↑↑ ##
     ## You can take this code and make it a button ##
     
-maya.utils.executeDeferred(run_tools_ui)```
+maya.utils.executeDeferred(run_tools_ui)
