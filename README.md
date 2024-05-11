@@ -38,6 +38,6 @@ def run_tools_ui(directory = None):
     ropeMakerUI.ropeMakerUI()
     
     ## ↑↑↑↑↑↑ ↑↑↑↑↑↑ ↑↑↑↑↑↑ ↑↑↑↑↑↑ ##
-    ## You can take this code and maker it a button ##
+    ## You can take this code and make it a button ##
     
 maya.utils.executeDeferred(run_tools_ui)```
